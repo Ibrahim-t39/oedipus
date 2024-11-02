@@ -28,7 +28,6 @@ export default function Home() {
         {[
           { title: "Oedipus' Story", description: "Unravel the tragic tale of the ill-fated king", link: "/story" },
           { title: "Key Characters", description: "Meet the figures that shape this legendary narrative", link: "/characters" },
-          { title: "Pivotal Moments", description: "Explore the turning points in Oedipus' journey", link: "/moments" },
           { title: "Significant Quotes", description: "Delve into the powerful words that echo through time", link: "/quotes" },
           { title: "Join the Discussion", description: "Share your thoughts and insights on the tragedy", link: "/discussion" },
         ].map((item, index) => (

@@ -28,7 +28,7 @@ const characters = [
   {
     name: "Laius",
     description: "Oedipus' biological father and the former king of Thebes. He was killed by Oedipus at the crossroads, fulfilling part of the prophecy. His unsolved murder is the catalyst for the play's events.",
-    image: "/images/laius.webp"
+    image: "/images/laius.png"
   },
   {
     name: "The Chorus",
